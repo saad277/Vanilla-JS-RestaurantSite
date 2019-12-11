@@ -1,0 +1,59 @@
+.nav1 {
+
+
+color:black;
+
+
+}
+
+.form{
+
+
+margin-top: 80px;
+background: white;
+padding-left: 70px;
+width: 400px;
+padding:79px;
+border-radius: 15px;
+margin-bottom: 50px;
+
+}
+
+body{
+
+    
+
+}
+
+
+.avatar {
+
+position: absolute;
+width: 120px;
+height:120px;
+border-color: white;
+border-style: solid;
+border-radius: 50%;
+margin-left: 46%;
+margin-top: 2%;
+
+
+
+}
+
+h4{
+
+margin-left: 10px;
+margin-bottom: 28px;
+
+
+}
+
+
+.navh:hover{
+
+
+background-color: aquamarine;
+
+
+}
